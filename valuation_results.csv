@@ -1,0 +1,11 @@
+player,wc_year,fee,wage,exit,NPV_eurm_1,NPV_eurm_2,NPV_eurm_3,IRR_pct_1,IRR_pct_2,IRR_pct_3,data_flag
+Sofyan Amrabat,2022,10,1.8,25,8.05,26.73,41.17,33.8,75.4,102.2,exit=WC value; 
+Guillermo Ochoa,2014,0,3,0,5.71,15.85,23.46,Inf,Inf,Inf,wage assumed; exit=fee; 
+Denis Cheryshev,2018,6,3,6,1.75,13.95,23.19,20.8,83.3,125.4,wage assumed; exit=fee; 
+Keylor Navas,2014,10,2.2,10,1.66,15.22,25.56,16.2,58,85.2,exit=fee; 
+Enner Valencia,2014,15,3,15,-4.17,11.09,22.8,-0.6,33.3,54,wage assumed; exit=fee; 
+Benjamin Pavard,2018,35,1.2,45,-8.22,17.29,37.19,1.6,24.4,37.9,all inputs from data
+Cody Gakpo,2022,40,3,60,-13.8,16.83,40.83,-1.9,21.6,35.1,wage assumed; 
+James Rodriguez,2014,80,3,80,-46.97,-9.51,19.95,-13,6.2,17,wage assumed; 
+Angel Di Maria,2014,75.6,15,75.6,-82.11,-46.15,-17.89,-34.7,-9.3,3.4,exit=fee; 
+Mario Gotze,2014,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,no transfer

@@ -1,0 +1,11 @@
+player,wc_year,data_source,minutes,goals,assists,shots,shots_on_target,xg,xa,key_passes,passes,pass_pct,tackles,interceptions,goals_per90,xg_per90,xa_per90,xg_overperformance,notes
+James Rodriguez,2014,basic (no open xG for 2014 WC),,6,2,,,,,,,,,,,,,,Quarter-final; advanced metrics unavailable (2014 not in StatsBomb open data)
+Keylor Navas,2014,basic (no open xG for 2014 WC),,0,0,,,,,,,,,,,,,,Quarter-final; advanced metrics unavailable (2014 not in StatsBomb open data)
+Guillermo Ochoa,2014,basic (no open xG for 2014 WC),,0,0,,,,,,,,,,,,,,Round of 16; advanced metrics unavailable (2014 not in StatsBomb open data)
+Enner Valencia,2014,basic (no open xG for 2014 WC),,3,0,,,,,,,,,,,,,,Group stage; advanced metrics unavailable (2014 not in StatsBomb open data)
+Cody Gakpo,2022,StatsBomb open data (computed),457,3,0,5,3,0.56,0.59,10,154,63.6,5,9,0.591,0.111,0.116,2.44,Quarter-final; goals minus xG = +2.44
+Sofyan Amrabat,2022,StatsBomb open data (computed),696,0,0,1,0,0.02,0.07,2,323,84.8,13,9,0.0,0.003,0.009,-0.02,Semi-final; goals minus xG = -0.02
+Denis Cheryshev,2018,StatsBomb open data (computed),308,4,0,13,6,1.11,0.05,1,92,57.6,5,3,1.169,0.325,0.016,2.89,Quarter-final; goals minus xG = +2.89
+Benjamin Pavard,2018,StatsBomb open data (computed),569,1,0,4,2,0.14,0.1,2,320,81.6,5,9,0.158,0.021,0.015,0.86,Winner; goals minus xG = +0.86
+Mario Gotze,2014,basic (no open xG for 2014 WC),,1,0,,,,,,,,,,,,,,Winner; advanced metrics unavailable (2014 not in StatsBomb open data)
+Angel Di Maria,2014,basic (no open xG for 2014 WC),,1,0,,,,,,,,,,,,,,Final (Runner-up); advanced metrics unavailable (2014 not in StatsBomb open data)

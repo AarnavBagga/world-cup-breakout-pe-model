@@ -1,0 +1,11 @@
+player,NPV_down,NPV_base,NPV_up,IRR_down_pct,IRR_base_pct,IRR_up_pct,flag
+Sofyan Amrabat,8.05,26.73,41.17,33.8,75.4,102.2,exit=WC value; 
+Benjamin Pavard,-8.22,17.29,37.19,1.6,24.4,37.9,all inputs from data
+Cody Gakpo,-13.8,16.83,40.83,-1.9,21.6,35.1,wage assumed; 
+Guillermo Ochoa,5.71,15.85,23.46,Inf,Inf,Inf,wage assumed; exit=fee; 
+Keylor Navas,1.66,15.22,25.56,16.2,58,85.2,exit=fee; 
+Denis Cheryshev,1.75,13.95,23.19,20.8,83.3,125.4,wage assumed; exit=fee; 
+Enner Valencia,-4.17,11.09,22.8,-0.6,33.3,54,wage assumed; exit=fee; 
+James Rodriguez,-46.97,-9.51,19.95,-13,6.2,17,wage assumed; 
+Angel Di Maria,-82.11,-46.15,-17.89,-34.7,-9.3,3.4,exit=fee; 
+Mario Gotze,NaN,NaN,NaN,NaN,NaN,NaN,no transfer
